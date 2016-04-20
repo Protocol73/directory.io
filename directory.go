@@ -36,7 +36,7 @@ const PageTemplateHeader = `<html>
 
 const PageTemplateFooter = `</pre>
 <pre style="margin-top: 1em; font-size: 8pt">
-It took a lot of computing power to generate this database. Donations welcome: 1Bv8dN7pemC5N3urfMDdAFReibefrBqCaK
+All this is Generated on the fly. Donations welcome: 1Bv8dN7pemC5N3urfMDdAFReibefrBqCaK - Update Donations: 1KATaqx5F4HbsHiM3SNxWX1uAD56Cwuo8B
 </pre>
 <a href="/%s">previous</a> | <a href="/%s">next</a>
 </body>
